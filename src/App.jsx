@@ -5,24 +5,24 @@ import "./App.css";
 const events = [
   {
     id: "1",
-    title: "programming tutorial",
+    title: "Python programming tutorial",
     date: "September 10, 2026",
-    location: "Computer Laboratory 2",
-    description: "Learn the basics of programming."
+    location: "Smart Classroom 1",
+    description: "Learn the basics of Python programming."
   },
   {
     id: "2",
-    title: "ICT Congress",
-    date: "September 15, 2026",
-    location: "MDC at Activity center",
+    title: "ICT meeting and congress",
+    date: "November 15, 2026",
+    location: "MMC Auditorium",
     description: "Learn about the latest trends in information and communication technology."
   },
   {
     id: "3",
-    title: "javascript workshop",
-    date: "September 20, 2026",
+    title: "C++ programming tutorial",
+    date: "December 20, 2026",
     location: "Computer Laboratory 1",
-    description: "Learn the fundamentals of JavaScript programming."
+    description: "Learn the fundamentals of C++ programming."
   }
 ];
 
